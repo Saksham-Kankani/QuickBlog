@@ -1,3 +1,6 @@
+📝 QuickBlog
+
+
 QuickBlog is a full-stack blog application that allows users to read, comment, and interact with blog posts. It also features a secure admin dashboard for managing posts and moderating comments. Powered by React.js, Node.js, Express, and MongoDB, it integrates JWT authentication and Gemini AI API for automatic blog generation based on a given topic.
 
 🚀 Features
